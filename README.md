@@ -123,11 +123,11 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 ## OUTPUT :
-[OUTPUT](./nnex5o1.png)
+![nnex5o1](https://github.com/elamarannn/Experiment-5-Implementation-of-XOR-using-RBF/assets/113497531/a8a626f7-a82e-414c-8465-c2445a388d88)
 
-[OUTPUT](./nnex5o2.png)
+![nnex5o2](https://github.com/elamarannn/Experiment-5-Implementation-of-XOR-using-RBF/assets/113497531/67083414-b275-4f37-82a7-2fd9e979e1c3)
 
-[OUTPUT](./nnex5o3.png)
+![nnexo3](https://github.com/elamarannn/Experiment-5-Implementation-of-XOR-using-RBF/assets/113497531/eda2f77a-3d5e-4570-a28e-f739cc9e2aa9)
 
 ## RESULT:
 Thus,XOR is successfully implemeted using RBF.
